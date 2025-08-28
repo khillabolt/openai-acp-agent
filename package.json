@@ -1,0 +1,18 @@
+{
+  "name": "openai-acp-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@zed-industries/agent-client-protocol": "^0.1.2",
+    "openai": "^5.16.0"
+  },
+  "devDependencies": {}
+}
